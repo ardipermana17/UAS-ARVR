@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Singapore Sentosa</title>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-environment-component@1.3.3/dist/aframe-environment-component.min.js"></script>
+    <script src="https://unpkg.com/aframe-event-set-component@^4.0.0/dist/aframe-event-set-component.min.js"></script>
+</head>
+<body>
+    <a-scene background="color: #FAFAFA" environment="preset: starry; lighting: dusk; skyType: atmosphere">
+        <a-assets>
+            <!-- <a-asset-item id="zoo" src="assets/object/singapura_zoo/scene.gltf"></a-asset-item> -->
+            <!-- <a-asset-item id="speedway" src="assets/object/singapura_speedway/scene.gltf"></a-asset-item> -->
+            <a-asset-item id="sentosa" src="assets/object/singapura_sentosa/scene.gltf"></a-asset-item>
+            <!-- <a-asset-item id="botanicgarden" src="assets/object/singapura_botanic_garden/scene.gltf"></a-asset-item> -->
+
+            <img id="imgzoo" src="assets/images/singapurazoo.jpg">
+            <img id="imgspeedway" src="assets/images/singapuraspeedway.jpg">
+            <img id="imgsentosa" src="assets/images/sentosa.jpeg">
+            <img id="imgbotanicgarden" src="assets/images/botanicgarden.jpeg">
+          </a-assets>
+
+        <a-entity look-controls cursor="rayOrigin: mouse"></a-entity>
+        <a-entity gltf-model="#sentosa" position="0 -1.5 -60" rotation="0 0 0" scale=" 120 120 120" animation-mixer></a-entity>
+
+        <a-link href="vr_zoo.html" title="Zoo" image="#imgzoo" position="2 1 -10"></a-link>
+        <a-link href="vr_speedway.html" title="Speedway" image="#imgspeedway" position="7 1 -10"></a-link>
+        <a-link href="vr_botanicgarden.html" title="Botanic Garden" image="#imgbotanicgarden" position="12 1 -10"></a-link>
+        <a-link href="ar_sentosa.html" title="AR Sentosa" image="#imgsentosa" position="17 1 -10"></a-link>
+        
+    </a-scene>
+</body>
+</html>

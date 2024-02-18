@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boeing 787-9 Singapore Airlines
+* source:	https://sketchfab.com/3d-models/boeing-787-9-singapore-airlines-d383b7e3b858407e8cff7365820cc4dd
+* author:	mudkipz321 (https://sketchfab.com/mudkipz321)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boeing 787-9 Singapore Airlines" (https://sketchfab.com/3d-models/boeing-787-9-singapore-airlines-d383b7e3b858407e8cff7365820cc4dd) by mudkipz321 (https://sketchfab.com/mudkipz321) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

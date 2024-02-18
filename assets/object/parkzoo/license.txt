@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grant Park Zoo Atlanta Parking Deck
+* source:	https://sketchfab.com/3d-models/grant-park-zoo-atlanta-parking-deck-987637cf9b1e4199af603a52a7cc5464
+* author:	grantpark (https://sketchfab.com/grantpark)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grant Park Zoo Atlanta Parking Deck" (https://sketchfab.com/3d-models/grant-park-zoo-atlanta-parking-deck-987637cf9b1e4199af603a52a7cc5464) by grantpark (https://sketchfab.com/grantpark) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

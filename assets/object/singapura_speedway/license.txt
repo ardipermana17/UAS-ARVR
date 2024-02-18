@@ -1,0 +1,11 @@
+Model Information:
+* title:	(MK8DX) Singapore Speedway
+* source:	https://sketchfab.com/3d-models/mk8dx-singapore-speedway-e350572af0fe47ee9e24d412f2578540
+* author:	Trixx (https://sketchfab.com/TrixxXOX)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "(MK8DX) Singapore Speedway" (https://sketchfab.com/3d-models/mk8dx-singapore-speedway-e350572af0fe47ee9e24d412f2578540) by Trixx (https://sketchfab.com/TrixxXOX) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

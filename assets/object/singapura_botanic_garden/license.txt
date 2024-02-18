@@ -1,0 +1,11 @@
+Model Information:
+* title:	Singapore Botanic Gardens, Singapore
+* source:	https://sketchfab.com/3d-models/singapore-botanic-gardens-singapore-2f29dca3edb2472fa88ad3577f2bde16
+* author:	patrick.young (https://sketchfab.com/patrick.young)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Singapore Botanic Gardens, Singapore" (https://sketchfab.com/3d-models/singapore-botanic-gardens-singapore-2f29dca3edb2472fa88ad3577f2bde16) by patrick.young (https://sketchfab.com/patrick.young) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

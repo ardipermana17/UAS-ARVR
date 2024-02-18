@@ -1,0 +1,11 @@
+Model Information:
+* title:	Singapore Zoo
+* source:	https://sketchfab.com/3d-models/singapore-zoo-7cf34b58d72d4c8db4eb3abf39aa3d60
+* author:	patrick.young (https://sketchfab.com/patrick.young)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Singapore Zoo" (https://sketchfab.com/3d-models/singapore-zoo-7cf34b58d72d4c8db4eb3abf39aa3d60) by patrick.young (https://sketchfab.com/patrick.young) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
